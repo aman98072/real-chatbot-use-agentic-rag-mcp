@@ -10,9 +10,9 @@ app = FastAPI()
 # ======================
 # GOOGLE OAUTH CONFIG
 # ======================
-CLIENT_ID = "238152176479-is2eunpm8h2cgjqj1b360t64ccc9tjfh.apps.googleusercontent.com"
-CLIENT_SECRET = "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"
-REFRESH_TOKEN = "1//0gmofMabFeCSHCgYIARAAGBASNwF-L9IrUKmPwHn86RRjyGBI0Gsl_zkF2c_56qWW4fcZ2FMhwi2re9gMvimocJsok6D5WuHO8w0"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
+REFRESH_TOKEN = ""
 TOKEN_URI = "https://oauth2.googleapis.com/token"
 
 SCOPES = ["https://www.googleapis.com/auth/calendar"]
