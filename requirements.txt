@@ -1,0 +1,12 @@
+streamlit
+crewai
+crewai-tools
+langchain-openai
+fastapi
+uvicorn
+google-api-python-client
+python-dotenv
+requests
+langgraph
+langchain-mcp-adapters
+mcp
